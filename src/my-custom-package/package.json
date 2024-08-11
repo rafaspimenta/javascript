@@ -1,0 +1,21 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "description": "greet package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "greet",
+    "codevolution"
+  ],
+  "author": "Rafael Pimenta",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  },
+  "repository": {
+    "url": "https://github.com/edinSahbaz/clean-api-template"
+  }
+}

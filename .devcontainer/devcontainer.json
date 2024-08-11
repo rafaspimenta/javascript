@@ -1,0 +1,22 @@
+// See https://containers.dev/implementors/json_reference/ for configuration reference
+{
+	"name": "Crash Node.js course",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+"remoteUser": "node",
+"customizations": {
+	"vscode": {
+		"extensions": [
+			"streetsidesoftware.code-spell-checker",
+			"dbaeumer.vscode-eslint",
+			"eamodio.gitlens",
+			"VisualStudioExptTeam.vscodeintellicode",
+			"VisualStudioExptTeam.intellicode-api-usage-examples",
+			"christian-kohler.npm-intellisense",
+			"esbenp.prettier-vscode",
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
+}
