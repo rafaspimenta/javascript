@@ -1,3 +1,4 @@
-src/my-custom-cli/node_modules/
-src/my-custom-package/node_modules/
-src/my-custom-deploy/node_modules/
+source/my-custom-cli/node_modules/
+source/my-custom-package/node_modules/
+source/my-custom-deploy/node_modules/
+source/my-custom-thread/node_modules/
